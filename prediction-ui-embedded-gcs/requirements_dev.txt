@@ -1,0 +1,13 @@
+flask
+pandas
+keras
+kfp
+typing
+joblib
+google.cloud
+tensorflow
+numpy
+h5py
+six
+requests
+pytest
